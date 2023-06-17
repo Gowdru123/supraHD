@@ -25,7 +25,7 @@ async def start(client, message):
                     InlineKeyboardButton('💎 new movies channel 💎', url=f'https://t.me/+D7L-rX9lKA43MGRl')
                 ],[
                     InlineKeyboardButton('💋 porn channel', url=f'https://t.me/adultHDbot'),
-                    InlineKeyboardButton('🥵 sex channel', url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT)
+                    InlineKeyboardButton('🥵 sex channel', url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT')
                 ],[
                     InlineKeyboardButton('🎰theater print movie🎰', url='https://t.me/theaterprintbot')
                   ]]
@@ -50,7 +50,7 @@ async def start(client, message):
                     InlineKeyboardButton('💎 new movies channel 💎', url=f'https://t.me/+D7L-rX9lKA43MGRl')
                 ],[
                     InlineKeyboardButton('💋 porn channel', url=f'https://t.me/adultHDbot'),
-                    InlineKeyboardButton('🥵 sex channel', url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT)
+                    InlineKeyboardButton('🥵 sex channel', url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT')
                 ],[
                     InlineKeyboardButton('🎰theater print movie🎰', url='https://t.me/theaterprintbot')
                   ]]        
@@ -95,7 +95,7 @@ async def start(client, message):
                     InlineKeyboardButton('💎 new movies channel 💎', url=f'https://t.me/+D7L-rX9lKA43MGRl')
                 ],[
                     InlineKeyboardButton('💋 porn channel', url=f'https://t.me/adultHDbot'),
-                    InlineKeyboardButton('🥵 sex channel', url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT)
+                    InlineKeyboardButton('🥵 sex channel', url='https://t.me/SEX_PORN_DESI_CHANNEL_BOT')
                 ],[
                     InlineKeyboardButton('🎰theater print movie🎰', url='https://t.me/theaterprintbot')
                   ]]        
