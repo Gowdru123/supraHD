@@ -21,10 +21,10 @@ BOT_TOKEN = environ['BOT_TOKEN']
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = is_enabled((environ.get('USE_CAPTION_FILTER', 'True')), True)
 
-PICS = (environ.get('PICS', 'https://te.legra.ph/file/7e9d190e9cbeb3ee61bb2.jpg')).split()
-NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/46443096bc6895c74a716.jpg")
+PICS = (environ.get('PICS', 'https://te.legra.ph/file/bb2b64aab56b8224b0249.jpg')).split()
+NOR_IMG = environ.get("NOR_IMG", "https://te.legra.ph/file/bb2b64aab56b8224b0249.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/268a0455332bbcb5e1a0d.mp4")
-SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/5e2d4418525832bc9a1b9.jpg")
+SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/95eef4c8cd648506a348b.jpg")
 
 # Admins, Channels & Users
 support_chat_id = environ.get('SUPPORT_CHAT_ID')
