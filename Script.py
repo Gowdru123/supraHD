@@ -1,4 +1,4 @@
-all class script(object):
+class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
 I am autofilterbot and I have 6lack new movies in my Database add me in ur group I will give all movies 
 
@@ -199,17 +199,13 @@ Nᴀᴍᴇ - {}"""
 
 <b><a href='https://t.me/ROCKERSBACKUP'>❕𝐑𝐎𝐂𝐊𝐄𝐑𝐒𝐁𝐀𝐂𝐊𝐔𝐏❕</a>
 =========== • ✠ • ===========
-▫️ 🍑sex porn video: @DQ_The_File_Donor_Support
+▫️ 🍑sex porn video: https://t.me/+Ce98xoyvoLcwYThl
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
-<b>Query: {query}
-IMDb Data:
-
-🏷 Title: <a href={url}>{title}</a>
-🎭 Genres: {genres}
-📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
+<b>❕ Title: <a href={url}>{title}</a>
+❕ Year: <a href={url}/releaseinfo>{year}</a>
+❕ Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
