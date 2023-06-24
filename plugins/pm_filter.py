@@ -1109,9 +1109,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "start":
         buttons = [[
-                    InlineKeyboardButton('✅ HD MOVIE'S 4K 2K ✅', url=f'https://t.me/+D7L-rX9lKA43MGRl')
+                    InlineKeyboardButton('new movies', url=f'https://t.me/+D7L-rX9lKA43MGRl')
                 ],[
-                    InlineKeyboardButton('1🍑 sex porn video 🔥', url=f'https://t.me/+Ce98xoyvoLcwYThl')
+                    InlineKeyboardButton('🍑 sex porn video 🔥', url=f'https://t.me/+Ce98xoyvoLcwYThl')
                 ],[
                     InlineKeyboardButton('porn search bot 🍑', url=f'https://t.me/SEX_PORN_DESI_CHANNEL_BOT')
                   ]]
