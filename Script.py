@@ -1,10 +1,6 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
-I am autofilterbot and I have 6lack new movies in my Database add me in ur group I will give all movies 
-
-❕ u can also add ur shartner an earn money ❕
-
- <a href='https://t.me/jnaneshgowdru>jnanesh gowda t n</a></b>"""
+I am supra </b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
