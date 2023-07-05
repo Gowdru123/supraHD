@@ -1,6 +1,14 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
-I am supra
+I am supra start this all bot 👇
+
+🍑 @SEX_PORN_DESI_CHANNEL_BOT
+
+⚠️ @theaterprintbot
+
+⚠️ @adultHDbot
+
+⚠️ @ottmoviesofficiakbot
 
 ⚠️ sex video ⚠️ :- https://t.me/+Scpivjd0IYw2ZTM1
 
@@ -202,6 +210,8 @@ Nᴀᴍᴇ - {}"""
 <b><a href='https://t.me/ROCKERSBACKUP'>❕𝐑𝐎𝐂𝐊𝐄𝐑𝐒𝐁𝐀𝐂𝐊𝐔𝐏❕</a>
 =========== • ✠ • ===========
 ⚠️ Sex video:- https://t.me/+Scpivjd0IYw2ZTM1
+
+🚸 @adultHDbot 🚸 @theaterprintbot 🚸 @SEX_PORN_DESI_CHANNEL_BOT 🚸 @ottmoviesofficiakbot
 
 ⚠️ HD OTT released:- https://t.me/+D7L-rX9lKA43MGRl
 
