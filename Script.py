@@ -1,6 +1,12 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
-I am supra </b>"""
+I am supra
+
+⚠️ sex video ⚠️ :- https://t.me/+Scpivjd0IYw2ZTM1
+
+⚠️ new released HD movies ⚠️ :- https://t.me/+D7L-rX9lKA43MGRl
+
+⚠️ movies request group ⚠️ :- https://t.me/+7SwAJ9sJqp44NmI1</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
@@ -195,7 +201,11 @@ Nᴀᴍᴇ - {}"""
 
 <b><a href='https://t.me/ROCKERSBACKUP'>❕𝐑𝐎𝐂𝐊𝐄𝐑𝐒𝐁𝐀𝐂𝐊𝐔𝐏❕</a>
 =========== • ✠ • ===========
-▫️ 🍑sex porn video: https://t.me/+Ce98xoyvoLcwYThl
+⚠️ Sex video:- https://t.me/+Scpivjd0IYw2ZTM1
+
+⚠️ HD OTT released:- https://t.me/+D7L-rX9lKA43MGRl
+
+⚠️movies request group:- https://t.me/+7SwAJ9sJqp44NmI1
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
